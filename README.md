@@ -5,7 +5,7 @@
 1. Baixe o arquivo .zip da branch master
 2. Descompacte o arquivo em uma pasta de sua escolha
 3. Abra o assistente do Maven na barra lateral direita e execute **control-balance-api > Lifecycle > _install_**
-4. Clique com o direito sobre a class OrderApiApplication.java, localizada em **src/main/java/com/cursojunit/controlbalanceapi**, e clique em _Run_
+4. Clique com o direito sobre a class ControlBalanceApiApplication.java, localizada em **src/main/java/com/cursojunit/controlbalanceapi**, e clique em _Run_
     
 ## Configurando o Banco de Dados
 
